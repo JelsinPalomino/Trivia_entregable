@@ -1,4 +1,6 @@
 # Trivia_entregable
 Trivia sobre historia del Perú
 
-> pip install pandas
+Antes de iniciar con la trivia, instalar el modulo "pandas"
+
+- pip install pandas
